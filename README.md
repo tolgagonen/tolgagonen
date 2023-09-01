@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tolga Akif Gönen</h1>
-📫 How to reach me **akiftolgagonen@gmail.com**
+📫 How to reach me akiftolgagonen@gmail.com , 
 
 
 
