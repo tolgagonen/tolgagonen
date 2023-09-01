@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tolga Akif Gönen</h1>
-<h3 align="center">Fresh graduate engineer.</h3>
+<h1 align="center">📫 How to reach me **akiftolgagonen@gmail.com**/h1>
 
-- 📫 How to reach me **akiftolgagonen@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
